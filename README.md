@@ -18,4 +18,4 @@ Watanabe K, Nishi E, Tashiro Y, Sakai K. Mode and Structure of the Bacterial Com
 8. msa
 9. DESeq2
 
-**all dependencies and files needed to recreate this analysis are hardcoded in script**
+*all dependencies and files needed to recreate this analysis are hardcoded in script*
